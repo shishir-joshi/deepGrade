@@ -1,2 +1,2 @@
 # deepGrade
-Research on the best strategy to perform Fruit Grading and Classification 
+Trying out deep CNNs to perform Fruit Grading and Classification 
